@@ -21,6 +21,7 @@ npm install -D tailwindcss postcss autoprefixer
 ```
 
 Get a free API key from finnhub.io
+
 Create .env file and add API
 ```python
 VITE_FINNHUB_API_KEY="Api Key"
@@ -32,4 +33,5 @@ npm run dev
 
 ## Current Limitations
 No real institutional dark pool feed
+
 No real-time WebSocket streaming
